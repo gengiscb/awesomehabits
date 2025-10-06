@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813931733767",
+    "project_id": "p6yqzd6js0wcvj3gkng4zzxyd80ilr",
+    "storage_bucket": "p6yqzd6js0wcvj3gkng4zzxyd80ilr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813931733767:android:ec7b02ca6ebc3a1e861ba2",
+        "android_client_info": {
+          "package_name": "com.gengiscb.awesomehabits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0_3MhXJyeEqfCXMaA6WBq-5uQJJr-sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
